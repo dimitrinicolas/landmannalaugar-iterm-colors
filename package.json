@@ -1,0 +1,21 @@
+{
+  "name": "landmannalaugar-iterm-colors",
+  "version": "1.0.0",
+  "description": "iTerm colors inspired by Icelandic Landmannalaugar mountains",
+  "main": "landmannalaugar.itermcolors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrinicolas/landmannalaugar-iterm-colors.git"
+  },
+  "author": {
+    "name": "Dimitri NICOLAS",
+    "email": "dimitri@fivecorp.fr"
+  },
+  "keywords": [
+    "landmannalaugar",
+    "iterm",
+    "colors"
+  ],
+  "homepage": "https://github.com/dimitrinicolas/landmannalaugar-iterm-colors"
+}
