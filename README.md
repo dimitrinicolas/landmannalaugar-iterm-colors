@@ -4,7 +4,7 @@
 
 ## Installation
 
-[Download the lastest realease][lastest release] and import it to your iTerm
+[Download the lastest release][lastest release] and import it to your iTerm
 profiles colors schemes.
 
 ## Related
